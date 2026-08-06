@@ -8,7 +8,3 @@ I'm a **Systems Design Engineering** student at the University of Waterloo passi
 - 📍 Waterloo, Ontario, Canada
 
 ---
-
-## 🐍 GitHub Activity
-
-![Snake animation](https://raw.githubusercontent.com/chrisjacksonn/chrisjacksonn/output/github-contribution-grid-snake.svg)
