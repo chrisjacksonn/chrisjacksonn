@@ -1,6 +1,8 @@
 # Hey, I'm Chris 👋
 
-I'm a **Systems Design Engineering** student at the University of Waterloo passionate about **UI/UX design**, **software development**, and building products that make a real impact.
+I'm a **Systems Design Engineering** student at the University of Waterloo 
+
+Interested in **UI/UX design**, **software development**, and building products that make a real impact.
 
 - 🛍️ SWE @Shopify — Shopify username [@chrisjacksonnn](https://github.com/chrisjacksonnn)
 - 🧠 Machine Learning Engineer @WAT.ai
