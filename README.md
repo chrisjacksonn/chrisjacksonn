@@ -7,14 +7,6 @@ I'm a **Systems Design Engineering** student at the University of Waterloo passi
 - 🌱 Currently exploring design systems, AI tools, and full-stack development
 - 📍 Waterloo, Ontario, Canada
 
-📫 **Let’s connect:**  
-<a href="https://www.linkedin.com/in/chrisjackson-/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:c8jackso@uwaterloo.ca" target="_blank">
-<img src="https://img.shields.io/badge/Email-c8jackso%40uwaterloo.ca-red?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
 ---
 
 ## 🐍 GitHub Activity
