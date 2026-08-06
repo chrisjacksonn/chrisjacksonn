@@ -2,7 +2,7 @@
 
 I'm a **Systems Design Engineering** student at the University of Waterloo 
 
-Interested in **UI/UX design**, **software development**, and building products that make a real impact.
+Exploring **multimodal ML** and **on-device LLM inference**.
 
 - 🛍️ SWE @Shopify - [@chrisjacksonnn](https://github.com/chrisjacksonnn)
 - 🧠 Machine Learning Engineer @WAT.ai - [FORTif.ai](https://github.com/FORTif-ai)
