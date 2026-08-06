@@ -36,10 +36,10 @@ I'm a **Systems Design Engineering** student at the University of Waterloo passi
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjacksoneng&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjacksonn&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ## 🐍 GitHub Activity
 
-![Snake animation](https://raw.githubusercontent.com/chrisjacksoneng/chrisjacksoneng/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/chrisjacksonn/chrisjacksonn/output/github-contribution-grid-snake.svg)
