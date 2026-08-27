@@ -1,6 +1,6 @@
 # Hey, I'm Chris 👋
 
-I do **Systems Design Engineering** student @UWaterloo 
+I do **Engineering** @UWaterloo 
 
 Exploring **multimodal ML** and **on-device LLM inference**.
 
